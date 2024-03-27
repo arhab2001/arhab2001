@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **PHP , Html , Javascript , Css**
+- 💬 Ask me about **PHP , HTML , CSS , Javascript**
 
 - 📫 How to reach me **ararhabahmath2001@gmail.com**
 
