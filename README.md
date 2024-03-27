@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arhab Ahamed</h1>
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQEZ4e55-lweIQ/profile-displaybackgroundimage-shrink_350_1400/0/1709121329807?e=1717027200&v=beta&t=xif1Wky3Lc7tLsu4kKqcrdaLgTd9NWmJLTNC8ScIShY)
+<h1 align="center">Hi 👋, I'm Arhab Ahmath</h1>
 <h3 align="center">I am a software engineering student from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
