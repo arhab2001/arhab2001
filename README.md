@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arhab Ahamed</h1>
 <h3 align="center">I am a software engineering student from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhab2001&label=Profile%20views&color=0e75b6&style=flat" alt="arhab2001" /> </p>
 
