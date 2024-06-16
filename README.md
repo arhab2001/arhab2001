@@ -1,4 +1,3 @@
-![MasterHead](https://www.linkedin.com/in/arhab-ahmath/overlay/background-image/)
 <h1 align="center">Hi 👋, I'm Arhab Ahmath</h1>
 <h3 align="center">I am a software engineering student from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
